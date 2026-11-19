@@ -1,6 +1,6 @@
 # T-Pot Honeypot Investigation: Mirai Malware Detection & Threat Intelligence
 
-![alt text](image.png)
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/13eb2500-0901-496e-8c09-73a785fda1ff" />
 
 **Investigation Date:** November 18, 2026  
 **Project Category:** SOC Analysis | Threat Intelligence | Malware Investigation  
